@@ -3,9 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irvin-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Irvin-Dev&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Irvin-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Irvin-Dev&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<p align="left">🔴 Tech Stack</p>
 
 ###
 
@@ -31,7 +35,7 @@
 
 ###
 
-<p align="left">✉️ Contacts</p>
+<p align="left">🔴 Contacts</p>
 
 ###
 
