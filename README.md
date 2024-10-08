@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋! My name is John Irvin Geanga, and I'm a BSIT student aspiring to become a full-stack web developer.</h3>
-
+<h2 align="left">🌱I'm currently learning <strong>JavaScript</strong></h2>
 ###
 
 <div align="center">
@@ -32,10 +32,6 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
-
-###
-
-<p align="left">🔴 Contacts</p>
 
 ###
 
