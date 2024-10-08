@@ -1,7 +1,5 @@
 <h3 align="left">Hi 👋! My name is John Irvin Geanga, and I'm a BSIT student aspiring to become a full-stack web developer.</h3>
-###
 <p align="left">🌱I'm currently learning <strong>JavaScript</strong>.</p>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Irvin-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
