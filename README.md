@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔴 Tech Stack</p>
+<p align="left">🔴 Languages & Tools</p>
 
 ###
 
