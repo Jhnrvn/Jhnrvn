@@ -6,6 +6,8 @@
   <img src="https://streak-stats.demolab.com?user=jhnrvn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-github-jhnrvn&style=for-the-badge)
+
 ###
 
 <p align="left">🔴 Languages & Tools</p>
@@ -46,5 +48,4 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-    ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jhnrvn&style=for-the-badge)
 ###
