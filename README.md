@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔴 Languages & Tools</p>
+<p align="left">💻 Languages & Tools</p>
 
 ###
 
