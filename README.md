@@ -39,6 +39,8 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="30" alt="zustand logo" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="30" alt="react-router logo" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
  
 </div>
