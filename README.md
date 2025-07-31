@@ -37,6 +37,8 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="30" alt="zustand logo" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
  
 </div>
