@@ -12,8 +12,6 @@
 
 <p align="left">💻 Tech Stack</p>
 
-###
-
 <br clear="both">
 
 <div align="left">
