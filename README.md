@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋! My name is John Irvin Geanga, and I'm a BSIT student aspiring to become a full-stack web developer.</h3>
-<p align="left">⚛️I'm currently learning <strong>ReactJS</strong>.</p>
+<p align="left">⚛️I'm currently learning <strong>TypeScript</strong>.</p>
 
 
 
@@ -21,9 +21,11 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="5" />
-   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="5" />
