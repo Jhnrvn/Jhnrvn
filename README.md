@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋! My name is John Irvin Geanga, and I'm a BSIT student aspiring to become a full-stack web developer.</h3>
-<p align="left">⚛️I'm currently learning <strong>TypeScript</strong>.</p>
+<p align="left">I'm currently learning <strong>TypeScript</strong>.</p>
 
 
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Tech Stack</p>
+<p align="left"> Tech Stack</p>
 
 <br clear="both">
 
