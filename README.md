@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is John Irvin Geanga, and I'm a BSIT student aspiring to become a full-stack web developer.</h3>
+<h3 align="left">Hi! My name is John Irvin Geanga, and I'm a BSIT student aspiring to become a full-stack web developer.</h3>
 <p align="left">I'm currently learning <strong>TypeScript</strong> & <strong>Next.js</strong> .</p>
 
 
