@@ -1,19 +1,15 @@
 # 👋Hi there!   
   
-
-### 💡About Me  
-  
-
 Hi! I'm **John Irvin Geanga**. I'm a **BSIT** student and tech enthusiast who loves exploring new technologies and building practical applications. I mainly work with JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB to develop modern solutions across web, desktop, and mobile platforms while continuously expanding my knowledge in software development.  
 
 
-### 💻 Development Experience  
+## 💻 Development Experience  
   
 
 I develop modern applications across **web, desktop, and mobile platforms**, using technologies like **React, Next.js, Node.js, MongoDB, Electron, and React Native**. I focus on building practical, user-friendly solutions that solve real-world problems while continuously learning and improving my development skills.  
   
 
-### 🛠 Tech Stack 
+## 🛠 Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,3 +37,4 @@ I develop modern applications across **web, desktop, and mobile platforms**, usi
 ## Github Stats
 
 [![Jhnrvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhnrvn&rank_icon=git)](https://github.com/jhrnvn/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jhnrvn&theme=default)](https://git.io/streak-stats)
