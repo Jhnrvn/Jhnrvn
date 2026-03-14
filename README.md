@@ -36,5 +36,7 @@ I develop modern applications across **web, desktop, and mobile platforms**, usi
 
 ## Github Stats
 
-[![Jhnrvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhnrvn&rank_icon=git)](https://github.com/jhrnvn/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jhnrvn&theme=default)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhnrvn&rank_icon=git" />
+  <img src="https://streak-stats.demolab.com/?user=jhnrvn&theme=default" />
+</p>
