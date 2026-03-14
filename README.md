@@ -2,7 +2,6 @@
   
 Hi! I'm **John Irvin Geanga**. I'm a **BSIT** student and tech enthusiast who loves exploring new technologies and building practical applications. I mainly work with JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB to develop modern solutions across web, desktop, and mobile platforms while continuously expanding my knowledge in software development.  
 
-
 ## 💻 Development Experience  
   
 
@@ -36,7 +35,6 @@ I develop modern applications across **web, desktop, and mobile platforms**, usi
 
 ## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhnrvn&rank_icon=git" />
-  <img src="https://streak-stats.demolab.com/?user=jhnrvn&theme=default" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhnrvn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jhnrvn&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
