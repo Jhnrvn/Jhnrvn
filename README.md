@@ -1,6 +1,5 @@
 # 👋Hi there!   
   
-### About Me
 Hi! I'm **John Irvin Geanga**. I'm a **BSIT** student and tech enthusiast who loves exploring new technologies and building practical applications. I mainly work with JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB to develop modern solutions across web, desktop, and mobile platforms while continuously expanding my knowledge in software development.  
 
 ### Development Experience  
