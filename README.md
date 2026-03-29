@@ -1,5 +1,6 @@
 # 👋Hi there!   
-  
+
+### About Me  
 Hi! I'm **John Irvin Geanga**. I'm a **BSIT** student and tech enthusiast who loves exploring new technologies and building practical applications. I mainly work with JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB to develop modern solutions across web, desktop, and mobile platforms while continuously expanding my knowledge in software development.  
 
 ### Development Experience  
@@ -23,6 +24,7 @@ I develop modern applications across **web, desktop, and mobile platforms**, usi
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -30,7 +32,7 @@ I develop modern applications across **web, desktop, and mobile platforms**, usi
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
+https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white
 ### Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhnrvn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
