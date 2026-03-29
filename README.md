@@ -32,7 +32,7 @@ I develop modern applications across **web, desktop, and mobile platforms**, usi
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white
+
 ### Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhnrvn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
